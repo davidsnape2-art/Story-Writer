@@ -1,0 +1,6 @@
+{
+  "name": "Story Writer",
+  "description": "An elegant creative writing app that helps you draft, structure, and expand your stories with the power of Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
